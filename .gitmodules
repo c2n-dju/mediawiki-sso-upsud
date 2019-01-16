@@ -1,0 +1,6 @@
+[submodule "submodules/CASAuth"]
+	path = submodules/CASAuth
+	url = https://github.com/c2n-dju/CASAuth
+[submodule "submodules/phpCAS"]
+	path = submodules/phpCAS
+	url = https://github.com/c2n-dju/phpCAS
