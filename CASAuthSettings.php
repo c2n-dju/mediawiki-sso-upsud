@@ -57,7 +57,7 @@ $CASAuth["CreateAccounts"]=true;
 # long and horrendous to remember.
 #
 # Default: $CASAuth["PwdSecret"]="Secret";
-$CASAuth["PwdSecret"]="fgdfjrnr835dfvisr9j1ofrhr";
+require_once("Private.php");
 
 # The email domain is appended to the end of the username when the user logs
 # in.  This does not affect their email address, and is for aesthetic purposes
